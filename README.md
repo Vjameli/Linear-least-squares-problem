@@ -1,2 +1,4 @@
 # Linear-least-squares-problem
-Several comparisons of different approaches to the problem linear least squares
+This is the second project of the numerical analysis discipline, offered at the first semester of 2020.
+
+More information about the project and its implementation can be found at "report.pdf" made in portuguese.
